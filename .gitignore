@@ -1,0 +1,4 @@
+// Dave Jagodowski - HW08 - .gitignore file
+//keys.js //Do not add this for the homework. Good for real-world though.
+node_modules
+.DS_Store
