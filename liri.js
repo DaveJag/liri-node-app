@@ -39,14 +39,21 @@ fs.readFile("keys.js", "utf8", function(error, data) {
 
 //functions
 function listTweets() {
-	console.log("listTweets-01");
 	var client = new twitter(dataKeys.twitterKeys);	
-	console.log("listTweets-02");
-    var params = {screen_name: "David_Walter", count: 10};
-    console.log("listTweets-03");
-  client.get('statuses/user_timeline', params, function(error, tweets, response) {
+    //Get my own tweets (up to 20)
+     var params = {user_id: "897120956329713666", count: 20};
+  	client.get('statuses/user_timeline', params, function(error, tweets, response) {
     if (!error) {
-    console.log(tweets);
-    }
-  });
-  }
+
+    var tweetData =[];
+    for (var i=0; i<tweets.length; i++) {
+      tweetData.push({
+      	"Received: ": tweets[i].created_at,
+        "Tweet: ": tweets[i].text
+      }) //end push
+    } // end for
+    console.log(tweetData);
+
+    } // end if
+  });// end client.get
+  } //end function
