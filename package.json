@@ -1,2 +1,26 @@
-//Dave Jagodowski - HW08 
-//package.json file is project root.
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "HW08 LIRI Bot",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveJag/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveJag/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/DaveJag/liri-node-app#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1",
+    "twitter-node-sdk": "0.0.6"
+  }
+}
