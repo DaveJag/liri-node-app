@@ -1,7 +1,6 @@
 // Dave Jagodowski - HW08
-// keys.js file
 
-console.log('keys.js is loaded.');
+//console.log('keys.js is loaded.');
 
 exports.twitterKeys = {
 	consumer_key: 'nLiPQy3HVtrpyX4f0uB9vmdxK',
