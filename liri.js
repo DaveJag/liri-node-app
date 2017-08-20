@@ -94,7 +94,7 @@ function omdbData(title) {
             log(body); // calling log function
 
             //log formatted data to log.txt
-            log("\r\n" + "Movie Search Results: " + "\r\n" +
+            log("\r\n" + "Movie Search Result: " + "\r\n" +
             "Title: " + body.Title + "\r\n" + 
             "Release Year: " + body.Year + "\r\n" +
             "IMdB Rating: " + body.imdbRating + "\r\n" +
@@ -142,14 +142,15 @@ function getSongInfo(params){
                     console.log("Artist: " + songInfo[i].artists[0].name);
                     console.log("Song: " + songInfo[i].name);
                     console.log("Album name: " + songInfo[i].album.name);
-                    console.log("Preview Url: " + songInfo[i].preview_url);  
+                    console.log("Preview Url: " + songInfo[i].preview_url + "\r\n");  
+
 
                     //write data to log file
-                    log("\r\n" + "************************* " + "- result " + (i+1) + "-"  + " *************************" + "\r\n" +
+                    log("--------------------------------------" + "\r\n" + 
                     "Artist: " + songInfo[i].artists[0].name + "\r\n" +
                     "Song: " + songInfo[i].name + "\r\n" +
                     "Album name: " + songInfo[i].album.name + "\r\n" +
-                    "Preview Url: " + songInfo[i].preview_url + "\rn" ); 
+                    "Preview Url: " + songInfo[i].preview_url + "\r\n" ); 
                 } //end if
             } //end for
         } //end if 

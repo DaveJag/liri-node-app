@@ -1,218 +1,0 @@
-Fri Aug 18 19:52:34 +0000 2017  Just creating a bunch of sample tweets for a coding project... don't mind me.
-Fri Aug 18 16:52:18 +0000 2017  Sample Tweet 2
-Fri Aug 18 18:24:50 +0000 2017  Hell no... I'm not going back! https://t.co/cJ6oGFLY9m
-Fri Aug 18 19:53:30 +0000 2017  Hey guys.... look at me... I'm on Twitter!  (again, please ignore)
-Mon Aug 14 15:50:54 +0000 2017  Taking my Twitter account for a test spin.
-
-************************* - result 1- *************************
-Artist: The Piano Guys
-Song: The Mission / How Great Thou Art
-Album name: Wonders
-Preview Url: https://p.scdn.co/mp3-preview/f887292d0452a636f53fd64a0b92a9706fb9a35b?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 3- *************************
-Artist: Ascend The Hill
-Song: How Great Thou Art
-Album name: Take the World, but Give Me Jesus
-Preview Url: https://p.scdn.co/mp3-preview/9591ea6c4c3b1689e1aea4d22689b4c81eb53e78?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 6- *************************
-Artist: Elvis Presley
-Song: How Great Thou Art
-Album name: If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra
-Preview Url: https://p.scdn.co/mp3-preview/42053706808c8216f68dbbcb6911f8a8db7e0bc0?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 5- *************************
-Artist: Home Free
-Song: How Great Thou Art
-Album name: How Great Thou Art
-Preview Url: https://p.scdn.co/mp3-preview/0ce30e278c3cada94df3be9663b5d808b5f3759e?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 2- *************************
-Artist: Chris Rice
-Song: How Great Thou Art
-Album name: Peace Like A River: The Hymns Project
-Preview Url: https://p.scdn.co/mp3-preview/ce9129f720b75e6f313f19ee94551cd98d462a1f?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 4- *************************
-Artist: Alan Jackson
-Song: How Great Thou Art
-Album name: Precious Memories
-Preview Url: nulln
-************************* - result 7- *************************
-Artist: David Nevue
-Song: How Great Thou Art
-Album name: Adoration: Solo Piano Hymns
-Preview Url: https://p.scdn.co/mp3-preview/e0ccf6198f260d300270d4ed0e10672e521368b2?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 8- *************************
-Artist: Elvis Presley
-Song: How Great Thou Art
-Album name: How Great Thou Art
-Preview Url: https://p.scdn.co/mp3-preview/b9002596d63a1bb2cc0139ff15d40389c2bb6704?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 9- *************************
-Artist: Citizens & Saints
-Song: How Great Thou Art
-Album name: Join the Triumph (Deluxe Edition)
-Preview Url: https://p.scdn.co/mp3-preview/4a15d03a7f1363108e88c9079f6a1f71f31b9428?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 10- *************************
-Artist: Joey + Rory
-Song: How Great Thou Art
-Album name: Hymns
-Preview Url: nulln
-************************* - result 11- *************************
-Artist: Jackie Evancho
-Song: How Great Thou Art
-Album name: Two Hearts
-Preview Url: https://p.scdn.co/mp3-preview/7211e61e434de1efe480e4c8bff6e8f78bfca3fe?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 13- *************************
-Artist: Randy Travis
-Song: How Great Thou Art
-Album name: Worship & Faith
-Preview Url: https://p.scdn.co/mp3-preview/b0c461dc7f5787bc706ff7c7cffd3086466c6edf?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 12- *************************
-Artist: Paul Baloche
-Song: How Great Thou Art
-Album name: Our God Saves
-Preview Url: https://p.scdn.co/mp3-preview/fa5aa7c5a391a09ffceb5844f457ad25a6f0b445?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 14- *************************
-Artist: Elvis Presley
-Song: Crying In the Chapel
-Album name: How Great Thou Art
-Preview Url: https://p.scdn.co/mp3-preview/cd40e8230633f6913618b475b46b57e7989f4ac5?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 15- *************************
-Artist: Elvis Presley
-Song: How Great Thou Art
-Album name: Elvis Ultimate Gospel
-Preview Url: https://p.scdn.co/mp3-preview/5152e8f06beb5d490a137ed857c9ac7e580a903a?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 16- *************************
-Artist: Home Free
-Song: How Great Thou Art
-Album name: Full Of (Even More) Cheer
-Preview Url: https://p.scdn.co/mp3-preview/0ce30e278c3cada94df3be9663b5d808b5f3759e?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 17- *************************
-Artist: Anthem Lights
-Song: Hymns Mash-Up: How Great Thou Art / It Is Well / Holy, Holy, Holy / Great Is Thy Faithfulness
-Album name: Hymns Mash-Up: How Great Thou Art / It Is Well / Holy, Holy, Holy / Great Is Thy Faithfulness
-Preview Url: https://p.scdn.co/mp3-preview/35b973b4fc917ead293c3b51647c11a85d973cb3?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 18- *************************
-Artist: Charlie Hall
-Song: How Great Thou Art
-Album name: From The Inside Out
-Preview Url: nulln
-************************* - result 19- *************************
-Artist: Carrie Underwood
-Song: How Great Thou Art (with Vince Gill) - Live from ACM Presents: Girls' Night Out
-Album name: Greatest Hits: Decade #1
-Preview Url: https://p.scdn.co/mp3-preview/b340d81b51713396f5265e8addb2eb16aa050ec3?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 20- *************************
-Artist: Anthem Lights
-Song: Hymns Mash-Up: How Great Thou Art / It Is Well / Holy, Holy, Holy / Great Is Thy Faithfulness
-Album name: Covers, Pt. V
-Preview Url: https://p.scdn.co/mp3-preview/35b973b4fc917ead293c3b51647c11a85d973cb3?cid=5f651205a9ba44adbe8f6e9a2a147759n
-Movie Search Results: 
-Title: Ghostbusters
-Release Year: 1984
-IMdB Rating: 7.8
-Country: USA
-Language: English
-Plot: Three former parapsychology professors set up shop as a unique ghost removal service.
-Actors: Bill Murray, Dan Aykroyd, Sigourney Weaver, Harold Ramis
-Rotten Tomatoes Rating: undefined
-Rotten Tomatoes URL: undefined
-
-[object Object]
-************************* - result 2- *************************
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album name: The Essential Backstreet Boys
-Preview Url: https://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 1- *************************
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album name: The Hits--Chapter One
-Preview Url: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 4- *************************
-Artist: Glee Cast
-Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Album name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Preview Url: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 3- *************************
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album name: Millennium
-Preview Url: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 7- *************************
-Artist: Manuel Costa
-Song: I Want It That Way
-Album name: I Want It That Way
-Preview Url: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 8- *************************
-Artist: Dynamite Boy
-Song: I Want It That Way
-Album name: Punk Goes Pop
-Preview Url: nulln
-************************* - result 5- *************************
-Artist: Anthem Lights
-Song: I Want It That Way
-Album name: Covers Part IV
-Preview Url: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 6- *************************
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album name: 90 Sweet 90s Hits!
-Preview Url: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 9- *************************
-Artist: "Weird Al" Yankovic
-Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-Album name: Poodle Hat
-Preview Url: https://p.scdn.co/mp3-preview/bc986c27b684adbc13837a5de25f14d4dbe0cc3c?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 10- *************************
-Artist: Boyce Avenue
-Song: I Want It That Way
-Album name: New Acoustic Sessions, Vol. 3
-Preview Url: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 11- *************************
-Artist: Landon Austin & Julia Sheer
-Song: I Want It That Way
-Album name: I Want It That Way
-Preview Url: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 13- *************************
-Artist: Kyle Olthoff
-Song: I Want It That Way
-Album name: I Want It That Way
-Preview Url: https://p.scdn.co/mp3-preview/101776fe4fc24aac543f6b4c5aa4273ac9d2dcc4?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 12- *************************
-Artist: "Weird Al" Yankovic
-Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-Album name: The Essential "Weird Al" Yankovic
-Preview Url: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 14- *************************
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album name: NOW That's What I Call 90s Pop
-Preview Url: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 15- *************************
-Artist: Steel Panther
-Song: I Want It That Way
-Album name: I Want It That Way
-Preview Url: nulln
-************************* - result 16- *************************
-Artist: Backstreet Boys
-Song: I Want It That Way
-Album name: NKOTBSB
-Preview Url: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 17- *************************
-Artist: Scott Bradlee's Postmodern Jukebox
-Song: I Want It That Way
-Album name: Selfies on Kodachrome
-Preview Url: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 18- *************************
-Artist: Scott Bradlee's Postmodern Jukebox
-Song: I Want It That Way
-Album name: PMJ Is For Lovers: The Love Song Collection
-Preview Url: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 19- *************************
-Artist: Jason Chen
-Song: I Want It That Way
-Album name: I Want It That Way
-Preview Url: https://p.scdn.co/mp3-preview/cba62099b5bec2bc9244aaeaba0422556f6df04e?cid=5f651205a9ba44adbe8f6e9a2a147759n
-************************* - result 20- *************************
-Artist: FROIDZ
-Song: I Want It That Way
-Album name: I Want It That Way
-Preview Url: https://p.scdn.co/mp3-preview/fdf46a47cbaf363ff9379b4222a74d1ba8291b67?cid=5f651205a9ba44adbe8f6e9a2a147759n
