@@ -17,7 +17,7 @@ var Spotify = require('node-spotify-api');
 
 //collect and analyze input
 var action = process.argv[2];
-var songName = process.argv[3]; 
+var title = process.argv[3]; 
 
 fs.readFile("keys.js", "utf8", function(error, data) {
 	//log an error to the console if file cannot be read
@@ -33,11 +33,14 @@ fs.readFile("keys.js", "utf8", function(error, data) {
 
 	    case "spotify-this-song":
 	      //Search spotify for the title
-        spotifyThisSong(songName, data);
+        spotifyThisSong(title, data);
         break;
 
-    } // end Case
+      case "movie-this":
+        //search IMDB for this title
+        omdbData(title);
 
+    } // end Case
 	} // end Else
 }) // end function
 
@@ -46,19 +49,52 @@ fs.readFile("keys.js", "utf8", function(error, data) {
 
 //functions
 
-function spotifyThisSong(songName, data) {
-    
-    var spotify = new Spotify({
+function omdbData(title) {
+    var omdbURL = 'http://www.omdbapi.com/?t=' + title + '&apikey=40e9cece';
+    request(omdbURL, function(error, response, body) {
+        if (title === "" || title === null || title === undefined) {
+            console.log("If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/");
+            console.log("It's on Netflix!");
+        }
+        else if (!error && response.statusCode == 200) {
+            var body = JSON.parse(body);
+            console.log("Title: " + body.Title);
+            console.log("Release Year: " + body.Year);
+            console.log("IMdB Rating: " + body.imdbRating);
+            console.log("Country: " + body.Country);
+            console.log("Language: " + body.Language);
+            console.log("Plot: " + body.Plot);
+            console.log("Actors: " + body.Actors);
+            console.log("Rotten Tomatoes Rating: " + body.tomatoRating);
+            console.log("Rotten Tomatoes URL: " + body.tomatoURL);
+        } else {
+            console.log('Error');
+        }
+    });
+}
+
+
+
+
+
+//-------------------------------------------------------------------------------------------
+function spotifyThisSong(title, data) {
+    //If song not found, return "The Sign" by "Ace of Base"
+    if (title === "" || title === null || title === undefined) {
+      params = "track:The%20Sign%20artist:Ace%20of%20Base%20";
+      getSongInfo(params);
+    } //end if
+    else 
+      params = ("\"" + title + "\""); // return tracks containing exact query string only.
+      getSongInfo(params);
+ } //end function spotifyThisSong()
+
+
+function getSongInfo(params){
+     var spotify = new Spotify({
       id: '5f651205a9ba44adbe8f6e9a2a147759',
       secret: 'bddcf4cdf328487aa6c3e88209654154'
      });
-   // var songName = process.argv[3];
-    //If song not found, return "The Sign" by "Ace of Base"
-    if (songName === undefined) {
-        songName = "The Sign"; //by artist "Ace of Base";
-    } //end if
-    params = songName;
-    //search api for type = track, query = songName
     spotify.search({type: "track", query: params}, function(err, data) {
         if(!err) {
             //console.log(data);
@@ -66,12 +102,12 @@ function spotifyThisSong(songName, data) {
             for (var i=0; i<data.tracks.items.length; i++){
                 if (songInfo[i] != undefined) {
                     var spotifyResults = 
-                     "************************* " + "-" + (i+1) + "-"  + " *************************" + "\r\n" +
-                        "Artist: " + songInfo[i].artists[0].name + "\r\n" +
-                        "Song: " + songInfo[i].name + "\r\n" +
-                        "Album name: " + songInfo[i].album.name + "\r\n" +
-                        "Preview Url: " + songInfo[i].preview_url + "\r\n";
-                       
+                     "************************* " + "- result " + (i+1) + "-"  + " *************************" + "\n" +
+                        "Artist: " + songInfo[i].artists[0].name + "\n" +
+                        "Song: " + songInfo[i].name + "\n" +
+                        "Album name: " + songInfo[i].album.name + "\n" +
+                        "Preview Url: " + songInfo[i].preview_url + "\n";
+                       //print results
                         console.log(spotifyResults);
                 } //end if not undefined
             } //end for
@@ -81,39 +117,8 @@ function spotifyThisSong(songName, data) {
                 return;
             }
     }) //end function spotify.search
- } //end function spotifyThisSong()
 
-
-/* Edna's Solution 
-function findSong(songName){  //on Spotify
-  //If song not found, return "The Sign" by "Ace of Base"
-  if (songName === undefined) {
-    songName = "The Sign";
-    artistName = "Ace of Base";
-  } //end if
-
-  spotify.search({ type: 'track', query: 'songName'}, function(err, data) {
-  if (err) {
-      console.log('Houston, we have a problem! ' + err);
-      return;
-  }; // end if 
-
-  var songs = data.tracks.items;
-  var data = []; //an array to hold data
-
-  for (var i = 0; i < songs.length; i++) {
-    data.push({
-      "artist: ": songs[i].artists.map(getArtistNames),
-      "song name: ": songs[i].name,
-      "preview song: ": songs[i].preview_url,
-      "album name: ": songs[i].album.name
-    }) // end data push
-  } //end for loop
-    console.log(data);
-  })//end spotify function
-} // end function findSong
-
-*/
+}
 
 //------------------------------------------------------------------------------------
 
